@@ -41,4 +41,4 @@
 
 ## Pairing link:2 (if above isn't working)
 
-<a href="https://byte-session-2.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE2-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://byte-session-6_8_b589_1c21_93db2.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE2-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
